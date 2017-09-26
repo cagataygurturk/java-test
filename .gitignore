@@ -1,0 +1,5 @@
+.idea
+target/
+atlassian-ide-plugin.xml
+*.iml
+.DS_STORE
